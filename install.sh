@@ -14,7 +14,7 @@ spinner() {
     done
   done
 
-  echo -e "\r DARKSEEKER LURKING [✔]"
+  echo -e "\r DARKSEEKER LURKING [✔] "
 }
 
 # Install dependencies silently
