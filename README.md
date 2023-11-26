@@ -3,4 +3,11 @@
 
 *Designed for Termux, Linux friendly, Windows not supported at this time.*
 
-Search the darknet in Terminal
+## Installation
+```
+git clone https://github.com/chameleonhash/darkseeker
+cd darkseeker
+chmod +x install.sh && chmod +x darkseeker.sh
+./install.sh
+./darkseeker.sh
+```
